@@ -1,9 +1,11 @@
 {
-  "version": "6.1.1",
-  "release_date": "2026-11-21",
-  "download_url": "",
+  "version": "6.3.4",
+  "release_date": "21/11/2026",
+  "download_url": "https://github.com/phuongbg-design/mold-calculator-updates/releases/download/v6.3.4/Update_MoldDesignCalculator_v6.3.4.exe",
   "sha256": "",
   "changelog": [
-    "Phiên bản V6.1.1 ổn định"
+    "Cập nhật bản Mold Design Calculator Pro v6.3.4.",
+    "Tự động dùng thử 7 ngày & khóa chức năng cập nhật mới chỉ cho máy đã kích hoạt (999K).",
+    "Hỗ trợ cập nhật miễn phí các tính năng mới về lâu dài cho máy kích hoạt."
   ]
 }
