@@ -1,10 +1,10 @@
 {
-  "version": "6.3.4",
-  "release_date": "2026-11-21",
-  "download_url": "https://github.com/phuongbg-design/mold-calculator-updates/releases/download/v6.3.4/Setup_MoldDesignCalculator_v6.3.4.exe",
+  "version": "6.4.0",
+  "release_date": "22/11/2026",
+  "download_url": "https://github.com/phuongbg-design/mold-calculator-updates/releases/download/v6.4.0/Setup_MoldDesignCalculator_v6.4.0.exe",
   "sha256": "",
   "changelog": [
-    "Cập nhật phiên bản mới để dùng thử tính năng tính toàn chọn máy và vỏ khuôn",
-    "Bản thử nghiệm vẫn cập nhật được để trải nghiệm, hãy cấp nhật ngay nhé"
+    "Bổ sung Hệ thống Báo Giá Khuôn Mẫu 3 cột (hỗ trợ VNĐ & USD, tính thuế VAT %, lưu dự án và xuất báo cáo Excel CSV/TXT).",
+    "Thêm biểu đồ ước tính nhanh cơ cấu chi phí khuôn ngay tại màn hình chính."
   ]
 }
