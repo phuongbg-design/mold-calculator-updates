@@ -1,11 +1,10 @@
 {
-  "version": "6.3.4",
-  "release_date": "21/11/2026",
-  "download_url": "https://github.com/phuongbg-design/mold-calculator-updates/releases/download/v6.3.4/Setup_MoldDesignCalculator_v6.3.4.exe",
+  "version": "6.3.5",
+  "release_date": "2026-11-21",
+  "download_url": "https://github.com/phuongbg-design/mold-calculator-updates/releases/download/v6.3.6/Mold_Design_Calculator_Setup_6.3.6.exe",
   "sha256": "",
   "changelog": [
-    "Phát hành phiên bản v6.3.4.",
-    "Tự động dùng thử 7 ngày & khóa chức năng mới chỉ cho máy đã kích hoạt (999K).",
-    "Hỗ trợ cập nhật miễn phí các tính năng mới về lâu dài cho máy kích hoạt."
+    "Cập nhật bản dùng thử 7 ngày",
+    "Hết 7 ngày khóa toàn bộ tính năng và chỉ giữ nút Cập nhật"
   ]
 }
