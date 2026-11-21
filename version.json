@@ -1,7 +1,7 @@
 {
-  "version": "6.3.6",
+  "version": "6.3.4",
   "release_date": "2026-11-21",
-  "download_url": "https://github.com/phuongbg-design/mold-calculator-updates/releases/download/6.3.6/Setup_MoldDesignCalculator_v6.3.6.exe",
+  "download_url": "https://github.com/phuongbg-design/mold-calculator-updates/releases/download/v6.3.4/Setup_MoldDesignCalculator_v6.3.4.exe",
   "sha256": "",
   "changelog": [
     "Cập nhật phiên bản mới để dùng thử tính năng tính toàn chọn máy và vỏ khuôn",
